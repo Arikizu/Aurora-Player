@@ -4,11 +4,11 @@ Aurora Player is a modern, feature-rich local desktop music player built with Py
 
 ## ✨ Features
 
-*   **Broad Audio Support:** Play your local audio files, including MP3, WAV, FLAC, OGG, M4A, AAC, and many more.
+*   **Audio Format Support:** Play your local audio files, including MP3, WAV, FLAC, OGG, M4A, AAC, and many more.
 *   **Discord Rich Presence (RPC):** Show off what you are listening to on Discord in real-time.
-*   **Smart Cover Art Fetching:** Automatically searches for missing cover art via YouTube Music (no API key required) or TIDAL (custom API key supported).
+*   **Cover Art Fetching:** Automatically searches for missing cover art via YouTube Music (no API key required) or TIDAL (custom API key supported).
 *   **Discord Cover Art Uploads:** If no online cover art is found, the app automatically extracts embedded metadata images and uploads them temporarily to services like Catbox or 0x0.st to display on your Discord profile.
-*   **Customizable Theming:** Tailor the UI to your liking with Dark/Light modes, customizable accent colors, and dynamic blurred backgrounds that adapt to your currently playing album art.
+*   **Customizable App UI Theme:** Tailor the UI to your liking with Dark/Light modes, customizable accent colors, and dynamic blurred backgrounds that adapt to your currently playing album art.
 *   **Session Persistence:** Never lose your spot; Aurora Player remembers your queue, last played track, and exact playback position upon exit.
 *   **Advanced Queue Management:** Supports drag-and-drop file loading, playlist shuffling, alphabetical sorting, and single-track or full-queue looping.
 *   **Uninterrupted Playback:** Minimize or close the application straight to your system tray to keep the music playing in the background.
