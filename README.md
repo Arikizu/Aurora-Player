@@ -24,7 +24,7 @@ This application is provided as a baked portable executable. **You do not need t
 
 1. Download the latest release from the [Releases page](https://github.com/Arikizu/Aurora-Player/releases).
 2. Move the downloaded application to your preferred location. (App creates config file in "Aurora Player" folder placed in user documents.)
-3. Launch `Aurora_Player.exe` file.
+3. Launch `AuroraPlayer.exe` file.
 4. Drag and drop audio files directly into the window, or use the **+ Files** / **+ Folder** buttons to create your queue.
 
 > **Note on Antivirus/Windows Defender:** Because this is a compiled `.exe` file without a paid publisher certificate, Windows SmartScreen or your antivirus software might flag it as an unrecognized app. If this happens, click **"More info"** and then **"Run anyway"**.
