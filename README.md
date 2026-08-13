@@ -39,7 +39,7 @@ You can access the **Settings** menu by clicking the gear icon "⚙" on the main
 > **YouTube covers are ready to use without any configuration, while TIDAL requires configuration such as an App ID and a secret key.**
 
 
-You can support me on
+You can support me on:
 
 [![buycoffee.to](https://buycoffee.to/img/brand/bc-logo.svg)](https://buycoffee.to/arikizu)
 
