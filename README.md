@@ -23,7 +23,7 @@ Aurora Player is a modern, feature-rich local desktop music player built with Py
 This application is provided as a baked portable executable. **You do not need to install Python, dependencies, or any requirements to run this.** 
 
 1. Download the latest release from the [Releases page](https://github.com/Arikizu/Aurora-Player/releases).
-2. Move the downloaded application to your preferred location. (App creates config file in "Aurora Player" folder placed in user documents.)
+2. Move the downloaded application to your preferred location. The app creates a config file in the "Aurora Player" folder inside your user Documents.
 3. Launch `AuroraPlayer.exe` file.
 4. Drag and drop audio files directly into the window, or use the **+ Files** / **+ Folder** buttons to create your queue.
 
@@ -34,12 +34,16 @@ This application is provided as a baked portable executable. **You do not need t
 You can access the **Settings** menu by clicking the gear icon "⚙" on the main interface. From there, you can configure:
 *   **Appearance:** Toggle dark mode and input custom HEX codes for your accent and background colors.
 *   **System Behavior:** Enable auto-play on startup, toggle the system tray icon, and configure whether external files should immediately play or queue.
-*   **Integrations:** Enable or disable Discord RPC and select your preferred cover art lookup methods - YouTube Music and TIDAL.
+*   **Integrations:** Enable or disable Discord RPC, and select your preferred cover art lookup methods — YouTube Music and TIDAL.
 
 > **YouTube covers are ready to use without any configuration, while TIDAL requires configuration such as an App ID and a secret key.**
 
+## ⚠️ Issues and Bugs
 
-You can support me on:
+If you encounter any bugs or issues, please report them in the [GitHub Issues section](https://github.com/Arikizu/Aurora-Player/issues).  
+Got ideas or want to help improve the project? Feel free to open an issue or submit a pull request. Your contributions and suggestions are always welcome!
+
+## ☕ Support:
 
 [![buycoffee.to](https://buycoffee.to/img/brand/bc-logo.svg)](https://buycoffee.to/arikizu)
 
